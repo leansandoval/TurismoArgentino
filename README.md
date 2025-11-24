@@ -34,7 +34,7 @@ Trabajo Práctico de la materia Paradigmas de Programación (UNLaM) - 1C 2023.
 | Orzo Larrosa | Melody Micaela |
 | Sandoval Vasquez | Juan Leandro |
 
-* (Link UML (Abrir con diagrams.net))[https://drive.google.com/file/d/1MnROMXN9_sZV99RkNpiDXz_77Du5z-pj/view]
-* (Link Video Demo)[https://drive.google.com/file/d/1khpMRF54y8zWJDMQD8_FEp2DxCCWnqsj/view]
-* Inicio de Programa: Pararse en el paquete src/edu/unlam/paradigmas/tp/principal y ejecutar la clase Main.
+* [Link UML (Abrir con diagrams.net)](https://drive.google.com/file/d/1MnROMXN9_sZV99RkNpiDXz_77Du5z-pj/view)
+* [Link Video Demo](https://drive.google.com/file/d/1khpMRF54y8zWJDMQD8_FEp2DxCCWnqsj/view)
+* Inicio de Programa: Pararse en el paquete ``src/edu/unlam/paradigmas/tp/principal`` y ejecutar la clase Main.
 * Text file line delimiter Windows
