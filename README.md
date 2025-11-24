@@ -1,6 +1,8 @@
 # Turismo Argentino
 Trabajo Práctico de la materia Paradigmas de Programación (UNLaM) - 1C 2023.
 
+[Repositorio de la Catedra](https://github.com/paradigmas-de-programacion)
+
 ## Información de la Asignatura
 * **Carrera**: Ingeniería en Informática
 * **Asignatura**: Paradigmas de Programación (3646)
