@@ -8,7 +8,6 @@ Trabajo Práctico de la materia Paradigmas de Programación (UNLaM) - 1C 2023.
 * **Asignatura**: Paradigmas de Programación (3646)
 * **Cuatrimestre**: Primer Cuatrimestre
 * **Año**: 2023
-* **Grupo**: 9
 
 ## Trayecto - Programación
 
