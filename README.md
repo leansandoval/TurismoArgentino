@@ -19,12 +19,12 @@ Trabajo Práctico de la materia Paradigmas de Programación (UNLaM) - 1C 2023.
         + Análisis Matemático II (3633)
         + Algoritmos y Estructuras de Datos (3640)
 
-# Profesores: 
+# Profesores
 * Gasior, Federico Mauro
 * Lanzilotta, Hernán Gabriel
 * Videla, Lucas
 
-# Integrantes:
+# Integrantes
 | Apellido/s | Nombre/s |
 |--|--|
 | Bianchi | Juan Alberto |
@@ -34,6 +34,7 @@ Trabajo Práctico de la materia Paradigmas de Programación (UNLaM) - 1C 2023.
 | Orzo Larrosa | Melody Micaela |
 | Sandoval Vasquez | Juan Leandro |
 
+# Instrucciones y Documentación
 * [Link UML (Abrir con diagrams.net)](https://drive.google.com/file/d/1MnROMXN9_sZV99RkNpiDXz_77Du5z-pj/view)
 * [Link Video Demo](https://drive.google.com/file/d/1khpMRF54y8zWJDMQD8_FEp2DxCCWnqsj/view)
 * Inicio de Programa: Pararse en el paquete ``src/edu/unlam/paradigmas/tp/principal`` y ejecutar la clase Main.
