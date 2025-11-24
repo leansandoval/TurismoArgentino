@@ -18,8 +18,8 @@ Trabajo Práctico de la materia Paradigmas de Programación (UNLaM) - 1C 2023.
 * **Carga horaria total**: 64 hs
 * **Modalidad**: Semipresencial
 * **Correlativas anteriores**
-        + Análisis Matemático II (3633)
-        + Algoritmos y Estructuras de Datos (3640)
+  * Análisis Matemático II (3633)
+  * Algoritmos y Estructuras de Datos (3640)
 
 # Profesores
 * Gasior, Federico Mauro
