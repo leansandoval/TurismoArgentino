@@ -1,5 +1,5 @@
 # Turismo Argentino
-Trabajo Práctico de la materia Paradigmas de Programación (UNLaM) - 1C 2023.
+Trabajo Práctico de la materia Paradigmas de Programación (3646) - 1C 2023 - UNLaM.
 
 [Repositorio de la Catedra](https://github.com/paradigmas-de-programacion)
 
